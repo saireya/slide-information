@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../bibtexml2html.xsl"?>
+<file xmlns="http://bibtexml.sf.net/">
+
+<entry id="internet"><misc>
+	<author>clkerdesign</author>
+	<title>internet.jpg</title>
+	<url>http://www.clker.com/clipart-253277.html</url>
+</misc></entry>
+
+<entry id="dict-ja"><misc>
+	<author>goo辞書</author>
+	<title>じょうほう【情報】の意味 - 国語辞書</title>
+	<url>http://dictionary.goo.ne.jp/leaf/jn2/110095/m0u/%E6%83%85%E5%A0%B1</url>
+</misc></entry>
+
+<entry id="dict-cn"><misc>
+	<author>Weblio日中中日辞典</author>
+	<title>情报の意味 - 中国語辞書</title>
+	<url>http://cjjc.weblio.jp/content/%E6%83%85%E6%8A%A5</url>
+</misc></entry>
+
+<entry id="shakyo"><misc>
+	<author>両足院</author>
+	<title>写経体験</title>
+	<url>http://www.ryosokuin.com/syakyou</url>
+</misc></entry>
+
+<entry id="sekihi"><misc>
+	<author>防災科学技術研究所 自然災害情報室</author>
+	<title>三陸地方の地震津波災害</title>
+	<url>http://dil.bosai.go.jp/disaster/2011eq311/sanrikuhistory.html</url>
+</misc></entry>
+
+<entry id="mokuhi"><misc>
+	<author>被災地NGO恊働センター</author>
+	<title>【東日本大震災】レポートNo.227</title>
+	<url>http://miyagijishin.seesaa.net/article/373641327.html</url>
+</misc></entry>
+
+<entry id="mokuhi2"><misc>
+	<author>毎日新聞</author>
+	<title>津波:石碑ではなく「木碑」…教訓の風化、建て替えで防ぐ</title>
+	<url>http://mainichi.jp/select/news/20150219k0000e040228000c.html</url>
+</misc></entry>
+
+<entry id="tabata"><misc>
+	<author>東北電力</author>
+	<title>まずもって、かだっからきいてけさいん - 東日本大震災復興情報レポート</title>
+	<url>http://www.tohoku-epco.co.jp/fukyu/report/contents/f42_mazumotte</url>
+</misc></entry>
+
+</file>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
+<log xmlns:xi="http://www.w3.org/2003/XInclude" title="What is &quot;Information&quot;?" by="" slide="1" embed="1">
+<article>
+<s h="What is &quot;Information&quot;?">
+<frame title="\insertsection">
+<block class="example" title="Q.">
+	「私は『情報化社会』に生きているなあ」と感じるのはどんなとき?
+</block>
+<img src="internet.jpg" scale=".25"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="「アナログ」と「ディジタル」(p.82)" class="alert">
+	<!-- TODO: 「実数」は数I! -->
+	<ul>
+		<li><alert>analog</alert>(← analogy: 類推): <em>連続的</em>なもの(例. 実数, 水の体積, 実線)</li>
+		<li><alert>digital</alert>(← digit: 数字): <em>離散的</em>なもの(例. 整数, クッキーの個数, 点線)</li>
+		<li mark="※">「アナログ = 古い」「ディジタル = 新しい」ではない!</li>
+	</ul>
+</block>
+<!-- TODO: アナログとディジタルの例を表す図 -->
+</frame>
+
+<frame title="\insertsection">
+<block class="example" title="Q.">
+	<em>「○○は情報である」</em>という<em>「情報の例」</em>をできるだけ多く挙げよ
+</block>
+
+<block title="Brainstorming">
+	<ul>
+		<li><em>判断・結論を出さない</em>:<br/>
+			自分の意見に「これは正しいか?」と立ち止まったり、他者の意見を「それは違う」と否定しない(吟味するのは次の段階)</li>
+		<li><em>質より量を重視</em>:<br/>
+			様々な角度からアイデアを出す(質を追求するのは次の段階)</li>
+		<li><em>粗野な考えを歓迎する</em>:<br/>
+			笑い者になりそうな奇抜な考え方や、ユニークで斬新なアイデアを重視</li>
+		<li><em>アイデアを結合し発展させる</em>:<br/>
+			2つのものをくっつけたり一部を変化させて新たなアイデアを生み出す</li>
+	</ul>
+	<!-- TODO: Wikipedia以外の出典 -->
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="じょう‐ほう【情報】">
+	<ol>
+		<li>ある物事の内容や事情についての知らせ。<em>インフォメーション</em>。</li>
+		<li>文字・数字などの記号やシンボルの媒体によって伝達され、受け手に状況に対する知識や適切な判断を生じさせるもの。</li>
+		<li>生体系が働くための指令や信号。神経系の神経情報、内分泌系のホルモン情報、遺伝情報など。</li>
+	</ol>
+	(出典:『大辞泉』)
+</block>
+
+<!-- TODO: TeXでは中国語を表示できない
+<block title="情报">
+	（探索・調査によって得られる軍事・政治・経済関係の）情報(英語のintelligenceに対応)<br/>
+	例: 情报员＝諜報員．<br/>
+	(出典:『白水社中国語辞典』)
+</block>-->
+</frame>
+
+<frame title="\insertsection">
+<block title="Information" class="alert">
+	inform = in(<em>内部に</em>) + form(<em>形成する</em>)<br/>
+	<alert>information(情報)</alert> = <alert>生命の内部に「何か」を形成させる「何か」</alert><br/>
+	(これを「<alert>生命情報</alert>」と呼ぶ)
+</block>
+<!-- TODO: 情報により生命が変化(autopoiesis)することをどこかに? -->
+
+<block title="参考:「情報」の定義">
+	<ul>
+		<li>「それによって生物が<em>パターン</em>をつくりだす<em>パターン</em>」<br/>
+			(by 西垣通(情報学者))</li>
+		<li>「<em>差異</em>をつくる<em>差異</em>」(by G. Bateson(文化人類学者))</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<img src="sakura.jpg" scale=".43"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="岡本太郎『今日の芸術』より">
+	<p><cmd name="hspace"><parm>1\zw</parm></cmd>はたしてあなたは画面の上にある色や形を、写真機のレンズが対象のイメージをそのまま映すように見ているかどうか、考えてみれば疑問です。あなたはそこにある画布、<em>目に映っている対象を見ていると思いながら、じつはあなたの見たいとのぞんでいるものを、心の中にみつめている</em>のではないでしょうか。</p>
+	<p><cmd name="hspace"><parm>1\zw</parm></cmd>それはあなたのイマジネーションによって、自分が創りあげた画面です。一枚の絵を十人が見たばあい、その十人の<em>心の中に映る絵の姿は、それぞれまったく異なった十だけのイメージになって浮かんでいる</em>とみてさしつかえありません。<em>人によって感激の度合いがちがうし、評価もちがいます</em>。同じように好きだといっても十人十色、その好き方はまたさまざまです。</p>
+</block>
+
+<block class="alert">
+	例え同じものを見ても、人の内部で何が形成されるかは、人それぞれ異なる<br/>
+	(その人が持つ<em>経験</em>や<em>知識</em>で変化)
+	<ul>
+		<li mark="⇨">情報は<alert>主観的</alert>なもの(<em>普遍的・客観的なものではない</em>)</li>
+	</ul>
+</block>
+</frame>
+
+<!--<frame title="\insertsection">
+<block title="課題" class="example">
+	各班で考えた「情報の例」が、本当に情報であるか各自で判定せよ
+	<ul>
+		<li>「情報でない」ものについては、なぜ情報でないのか<em>理由</em>を書くこと</li>
+		<li>「Down &gt; 社会と情報 &gt; 情報の例 &gt; 1-x」に各班のファイルを置きます</li>
+		<li>締切: 次回の授業時</li>
+		<li>提出先: 「Up &gt; 社会と情報 &gt; 情報の例 &gt; 1-x」</li>
+	</ul>
+</block>
+</frame>-->
+
+<frame title="\insertsection">
+<block title="社会情報" class="alert">
+	<alert>記号・言語と意味が一体</alert>になった(生命)情報
+</block>
+<multicols num="2">
+<block title="大津浪記念碑(岩手県大槌町)碑文">
+	昭和八年三月三日<br/>
+	大津波記念碑<br/>
+	<cmd name="vspace"><parm>1\zw</parm></cmd>
+	一、地震があったら津波の用心せよ<br/>
+	一、津波が来たら高い所へ逃げよ<br/>
+	一、危険地帯に住居をするな
+</block>
+<img src="sekihi.jpg" scale=".4"/>
+</multicols>
+</frame>
+
+<frame title="\insertsection">
+<multicols>
+<column width="5cm">
+<block title="読売新聞より">
+	<p><cmd name="hspace"><parm>1\zw</parm></cmd>東日本大震災からしばらくして、自分が住んでいた近くに、昭和三陸津波の石碑があったらしいと知りました。公民館のとなりの、広場のようなところ。<em>よく友達と遊んでいた場所</em>です。行ってみたら、高さ２メートルくらいの石碑が残っていました。(中略)</p>
+	<p><cmd name="hspace"><parm>1\zw</parm></cmd><alert>それまで全然気づかなかった</alert>。よく残ってたなと思うと同時に、すごいショックで。後悔しきれなかった。<alert>もっと伝わっていれば、もっと多くの人が助かったのでは</alert>と。</p>
+	<!-- いわゆる「風化」 -->
+</block>
+</column>
+<column width="5cm">
+<img src="sekihi.jpg" scale=".4"/>
+</column>
+</multicols>
+</frame>
+
+<frame title="\insertsection">
+<block title="機械情報" class="alert">
+	<alert>意味が潜在化</alert>した(意味を構築できない)社会情報
+	<ul>
+		<li>意味を構築できなくても<em>コピー</em>することはできる</li>
+		<li><em>コンピュータで扱える</em>のは機械情報のみ</li>
+	</ul>
+</block>
+<img src="shakyo.jpg" scale=".75"/>
+</frame>
+
+<frame title="\insertsection">
+<block title="コンピュータでの機械情報の扱い" class="alert">
+	2進数の数字1つを1 bit(<em>ビット</em>)とする
+	<ul>
+		<li>「8bit = 1B(<em>バイト</em>)」</li>
+		<li>1000ではなく<em>$1024 (= 2^{10})$</em>を単位とする</li>
+		<li>$2^{10} = K, 2^{20} = M, 2^{30} = G, 2^{40} = T, ...$</li>
+		<li mark="※">$10^3 = k$は小文字、$2^{10} = K$は大文字</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block class="alert">
+	<alert>\[ \text{生命情報} \supset \text{社会情報} \supset \text{機械情報} \]</alert>
+	<ul>
+		<li mark="※">情報は主観的なものなので、「Aにとっては機械情報」であるものが「Bにとっては機械情報でない」ことがありうる</li>
+	</ul>
+</block>
+<img src="inclusion.svg" scale=".8"/>
+</frame>
+
+<frame title="\insertsection">
+<block class="example" title="Q1.">
+	石碑1が「<em>風化</em>」したのはなぜか?
+</block>
+<multicols num="2">
+<block title="大津浪記念碑(岩手県大槌町)碑文">
+	昭和八年三月三日<br/>
+	大津波記念碑<br/>
+	<cmd name="vspace"><parm>1\zw</parm></cmd>
+	一、地震があったら津波の用心せよ<br/>
+	一、津波が来たら高い所へ逃げよ<br/>
+	一、危険地帯に住居をするな
+</block>
+<img src="sekihi.jpg" scale=".4"/>
+</multicols>
+</frame>
+
+<frame title="\insertsection">
+<multicols num="2">
+<block title="大津浪記念碑(岩手県宮古市)碑文">
+	大津波記念碑<br/>
+	<cmd name="vspace"><parm>1\zw</parm></cmd>
+	高き住居は児孫の和楽<br/>
+	想へ惨禍の大津浪<br/>
+	此処より下に家を建てるな<br/>
+	<cmd name="vspace"><parm>1\zw</parm></cmd>
+	明治二十九年にも、昭和八年にも<br/>
+	津浪は此処まで来て<br/>
+	部落は全滅し、生存者僅かに<br/>
+	前に二人後に四人のみ<br/>
+	幾歳経るとも要心<ruby r="なにより">何従</ruby>
+</block>
+<img src="sekihi2.jpg" scale=".4"/>
+</multicols>
+</frame>
+
+<frame title="\insertsection">
+<multicols num="2">
+<block class="example" title="Q2.">
+	石碑1と石碑2の<em>違い</em>は何か?
+</block>
+<block title="大津浪記念碑(岩手県宮古市)碑文">
+	大津波記念碑<br/>
+	<cmd name="vspace"><parm>1\zw</parm></cmd>
+	高き住居は児孫の和楽<br/>
+	想へ惨禍の大津浪<br/>
+	此処より下に家を建てるな<br/>
+	<cmd name="vspace"><parm>1\zw</parm></cmd>
+	明治二十九年にも、昭和八年にも<br/>
+	津浪は此処まで来て<br/>
+	部落は全滅し、生存者僅かに<br/>
+	前に二人後に四人のみ<br/>
+	幾歳経るとも要心<ruby r="なにより">何従</ruby>
+</block>
+<img src="sekihi2.jpg" scale=".4"/>
+</multicols>
+</frame>
+
+<frame title="\insertsection">
+<block title="「木碑」">
+	定期的に交換させることで「風化」を防ぐ
+</block>
+
+<multicols>
+<column width="7cm">
+<block title="「津波の記憶、木製の碑に…被災地の10代」(読売新聞2015/3/11)">
+	<p><cmd name="hspace"><parm>1\zw</parm></cmd><em>石だと風景の一部に</em>なってしまう。だから木です。木だと腐る。腐るときに記憶に残る。それで<em>交換しにいけば風化しないのでは</em>ないか。４年に１度、交換します。</p>
+	<p><cmd name="hspace"><parm>1\zw</parm></cmd>震災のことを忘れてほしくない。町内に、１本だけです。立てすぎても、風景になって忘れられてしまうと思うから。</p>
+</block>
+</column>
+<column width="4cm">
+	<img src="mokuhi2.jpg" scale=".4"/>
+</column>
+</multicols>
+</frame>
+
+<frame title="\insertsection">
+<block title="Q3(課題)" class="example">
+	できるだけ意味を潜在化させずに情報を相手に伝えるためには、どうすれば良いか?
+<!--	情報を記号・言語を用いて表現する場合に、留意すべき点は何か?-->
+<!--	危機意識や災害体験の「<em>風化</em>」を防ぐために、どのように情報を提示すれば良いか?-->
+<!--	時代を超えて危機意識や災害体験のような情報を伝えていくために、留意すべき点は何か?-->
+	<ul>
+		<li>締切: 次回の授業時</li>
+		<li>提出先: 「Up &gt; 社会と情報 &gt; 風化 &gt; 1-x」</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<multicols>
+<column width="7cm">
+<block title="気仙沼市震災復興計画「海と生きる」">
+先人たちはこれまで何度も津波に襲われても、海の可能性を信じて再起を果たしてきた。人智の及ばぬ壮大な力としながらも、<em>海を敵視せず、積極的に関わり合って</em>暮らしてきた。
+それは、単に「海で」生活していたのではなく、人間は自然の一部であることを経験的に体得し、<em>対等の関係を築いて「海と」生活</em>していたとも言える。その態度が<em>自然観や運命観、ひいては死生観</em>となった。
+気仙沼の<em>観念</em>は海にある。
+いまを生きる世代が再び<em>海の可能性</em>を信じ、復興を成し遂げることが犠牲者への供養となり、次世代への希望となろう。
+理念を超えた観念をメッセージ化したものが「<alert>海と生きる</alert>」である。
+</block>
+</column>
+<column width="5cm">
+<img src="karakuwa.jpg" scale=".2"/>
+<img src="port.jpg" scale=".2"/>
+</column>
+</multicols>
+</frame>
+</s>
+</article>
+</log>
