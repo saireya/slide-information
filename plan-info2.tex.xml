@@ -11,7 +11,7 @@
 	<li>単元の指導計画<br/>
 		$§.$ 情報社会
 		<cmd name="vspace"><parm>-1.5em</parm></cmd>
-		<multicols num="3">
+		<multicols num="2">
 		1. 情報とは(2時間)<br/>
 		2. 社会情報と機械情報(2時間, 本時)
 		</multicols>
