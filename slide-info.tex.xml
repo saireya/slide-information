@@ -95,7 +95,7 @@
 	</ul>
 </block>
 </frame>
-
+<!-- TODO: 色覚: 色の見え方は人それぞれ -->
 <!--<frame title="\insertsection">
 <block title="課題" class="example">
 	各班で考えた「情報の例」が、本当に情報であるか各自で判定せよ
@@ -112,6 +112,7 @@
 <block title="社会情報" class="alert">
 	<alert>記号・言語と意味が一体</alert>になった(生命)情報
 </block>
+<!-- TODO: 記号・言語の例: 自然言語, pictogram -->
 <multicols num="2">
 <block title="大津浪記念碑(岩手県大槌町)碑文">
 	昭和八年三月三日<br/>
