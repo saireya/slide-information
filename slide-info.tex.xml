@@ -180,6 +180,7 @@
 	</ul>
 </block>
 </frame>
+<!--TODO: digital化: 音の標本化・量子化 -->
 
 <frame title="\insertsection">
 <block class="alert">
