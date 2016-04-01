@@ -78,7 +78,7 @@
 </frame>
 
 <frame title="\insertsection">
-<img src="sakura.jpg" scale=".43"/>
+<img src="sakura.jpg" scale=".35"/>
 </frame>
 
 <frame title="\insertsection">
@@ -172,7 +172,7 @@
 		<li mark="※">情報は主観的なものなので、「Aにとっては機械情報」であるものが「Bにとっては機械情報でない」ことがありうる</li>
 	</ul>
 </block>
-<img src="inclusion.svg" scale=".8"/>
+<img src="inclusion.svg" scale=".7"/>
 </frame>
 
 <frame title="\insertsection">
