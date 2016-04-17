@@ -77,6 +77,13 @@
 </block>
 </frame>
 
+<!-- TODO: 虹の色,ゴッホと色覚(色のシミュレータを使ってもらう?) -->
+<!-- TODO: 色覚: 色の見え方は人それぞれ -->
+<s h="情報の主観性">
+<frame title="\insertsection">
+<img src="goch.jpg" scale=".35"/>
+</frame>
+
 <frame title="\insertsection">
 <img src="sakura.jpg" scale=".35"/>
 </frame>
@@ -95,7 +102,8 @@
 	</ul>
 </block>
 </frame>
-<!-- TODO: 色覚: 色の見え方は人それぞれ -->
+</s>
+
 <!--<frame title="\insertsection">
 <block title="課題" class="example">
 	各班で考えた「情報の例」が、本当に情報であるか各自で判定せよ
