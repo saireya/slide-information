@@ -78,11 +78,11 @@
 </frame>
 
 <s h="情報の主観性">
-<frame title="\insertsection">
+<frame title="\insertsubsection">
 <img src="goch1.jpg" scale=".35" n="fig:goch1" title="van Goch「カフェテリアの夜」"/>
 </frame>
 
-<frame title="\insertsection">
+<frame title="\insertsubsection">
 <img src="goch2.jpg" scale=".35" n="fig:goch2" title="van Goch「カフェテリアの夜」(P型補正後)"/>
 </frame>
 
@@ -96,14 +96,14 @@
 </block>
 </frame>
 
-<frame title="\insertsection">
+<frame title="\insertsubsection">
 <multicols num="2">
 <img src="goch1.jpg" scale=".35"/>
 <img src="goch2.jpg" scale=".35"/>
 </multicols>
 </frame>
 
-<frame title="\insertsection">
+<frame title="\insertsubsection">
 <block title="岡本太郎『今日の芸術』より">
 	<p><cmd name="quad" gr="0"/>はたしてあなたは画面の上にある色や形を、写真機のレンズが対象のイメージをそのまま映すように見ているかどうか、考えてみれば疑問です。あなたはそこにある画布、<em>目に映っている対象を見ていると思いながら、じつはあなたの見たいとのぞんでいるものを、心の中にみつめている</em>のではないでしょうか。</p>
 	<p><cmd name="quad" gr="0"/>それはあなたのイマジネーションによって、自分が創りあげた画面です。一枚の絵を十人が見たばあい、その十人の<em>心の中に映る絵の姿は、それぞれまったく異なった十だけのイメージになって浮かんでいる</em>とみてさしつかえありません。<em>人によって感激の度合いがちがうし、評価もちがいます</em>。同じように好きだといっても十人十色、その好き方はまたさまざまです。</p>
