@@ -77,15 +77,30 @@
 </block>
 </frame>
 
-<!-- TODO: 虹の色,ゴッホと色覚(色のシミュレータを使ってもらう?) -->
-<!-- TODO: 色覚: 色の見え方は人それぞれ -->
 <s h="情報の主観性">
 <frame title="\insertsection">
-<img src="goch.jpg" scale=".35"/>
+<img src="goch1.jpg" scale=".35" n="fig:goch1" title="van Goch「カフェテリアの夜」"/>
 </frame>
 
 <frame title="\insertsection">
-<img src="sakura.jpg" scale=".35"/>
+<img src="goch2.jpg" scale=".35" n="fig:goch2" title="van Goch「カフェテリアの夜」(P型補正後)"/>
+</frame>
+
+<frame title="\insertsubsection">
+<block title="色覚異常">
+<em>色の見え方・感じ方</em>が、多くの人とは異なる状態
+<ul>
+	<li>日本人女性の$0.2\%$、日本人男性の$5\%$、仏・北欧では男性の$10\%$</li>
+	<li><c fg="red">赤</c>と<c fg="green">緑</c>など、区別しにくい色が多くの人と違う</li>
+</ul>
+</block>
+</frame>
+
+<frame title="\insertsection">
+<multicols num="2">
+<img src="goch1.png" scale=".25"/>
+<img src="goch2.png" scale=".25"/>
+</multicols>
 </frame>
 
 <frame title="\insertsection">
