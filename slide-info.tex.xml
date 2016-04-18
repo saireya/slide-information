@@ -106,6 +106,14 @@
 	<li><c fg="red">赤</c>と<c fg="green">緑</c>など、区別しにくい色が多くの人と違う</li>
 </ul>
 </block>
+<multicols num="2">
+<img src="slide-ui-graph1.png" scale=".25" title="色だけで区別したグラフ"/>
+<img src="slide-ui-graph2.png" scale=".25" title="色が見えにくいと区別できない"/>
+</multicols>
+<size size="small" xml:id="color-cite">
+出典:福島県『カラーユニバーサルデザインガイド』<br/>
+<a href="http://www.pref.fukushima.lg.jp/sec/16005c/ud-cudguide04.html"/>
+</size>
 </frame>
 
 <frame title="\insertsubsection">
