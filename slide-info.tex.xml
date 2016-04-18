@@ -98,8 +98,8 @@
 
 <frame title="\insertsection">
 <multicols num="2">
-<img src="goch1.jpg" scale=".25"/>
-<img src="goch2.jpg" scale=".25"/>
+<img src="goch1.jpg" scale=".35"/>
+<img src="goch2.jpg" scale=".35"/>
 </multicols>
 </frame>
 
