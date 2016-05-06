@@ -143,14 +143,14 @@
 <block title="社会情報" class="alert">
 	<alert>記号・言語と意味が一体</alert>になった(生命)情報
 </block>
-<img src="pictogram.png" n="fig:pictogram" title="記号・言語の例(ピクトグラム)"/>
+<img src="pictogram.png" scale=".75" n="fig:pictogram" title="記号・言語の例(ピクトグラム)"/>
 </frame>
 
 <frame title="\insertsection">
 <block title="ピクトグラム">
 <alert>言語が理解できなくても</alert>、<alert>字が読めなくても</alert>伝わる
 </block>
-<img src="pictogram-minefield.jpg" scale=".45" n="fig:minefield" title="ピクトグラムが危険を示す例(カンボジアの地雷敷設地帯)"/>
+<img src="pictogram-minefield.jpg" scale=".9" n="fig:minefield" title="ピクトグラムが危険を示す例(カンボジアの地雷敷設地帯)"/>
 </frame>
 
 <frame title="\insertsection">
