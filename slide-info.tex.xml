@@ -143,33 +143,14 @@
 <block title="社会情報" class="alert">
 	<alert>記号・言語と意味が一体</alert>になった(生命)情報
 </block>
-<!-- TODO: 記号・言語の例: 自然言語, pictogram -->
-<multicols num="2">
-<block title="大津浪記念碑(岩手県大槌町)碑文">
-	昭和八年三月三日<br/>
-	大津波記念碑<br/>
-	<cmd name="vspace"><parm>1em</parm></cmd>
-	一、地震があったら津波の用心せよ<br/>
-	一、津波が来たら高い所へ逃げよ<br/>
-	一、危険地帯に住居をするな
-</block>
-<img src="sekihi.jpg" scale=".4"/>
-</multicols>
+<img src="pictogram.png" n="fig:pictogram" title="記号・言語の例(ピクトグラム)"/>
 </frame>
 
 <frame title="\insertsection">
-<multicols>
-<column width="5cm">
-<block title="読売新聞より">
-	<p><cmd name="quad" gr="0"/>東日本大震災からしばらくして、自分が住んでいた近くに、昭和三陸津波の石碑があったらしいと知りました。公民館のとなりの、広場のようなところ。<em>よく友達と遊んでいた場所</em>です。行ってみたら、高さ２メートルくらいの石碑が残っていました。(中略)</p>
-	<p><cmd name="quad" gr="0"/><alert>それまで全然気づかなかった</alert>。よく残ってたなと思うと同時に、すごいショックで。後悔しきれなかった。<alert>もっと伝わっていれば、もっと多くの人が助かったのでは</alert>と。</p>
-	<!-- いわゆる「風化」 -->
+<block title="ピクトグラム">
+<alert>言語が理解できなくても</alert>、<alert>字が読めなくても</alert>伝わる
 </block>
-</column>
-<column width="5cm">
-<img src="sekihi.jpg" scale=".4"/>
-</column>
-</multicols>
+<img src="pictogram-minefield.jpg" scale=".45" n="fig:minefield" title="ピクトグラムが危険を示す例(カンボジアの地雷敷設地帯)"/>
 </frame>
 
 <frame title="\insertsection">
@@ -204,6 +185,21 @@
 	</ul>
 </block>
 <img src="inclusion.svg" scale=".7"/>
+</frame>
+
+<frame title="\insertsection">
+<multicols>
+<column width="5cm">
+<block title="読売新聞より">
+	<p><cmd name="quad" gr="0"/>東日本大震災からしばらくして、自分が住んでいた近くに、昭和三陸津波の石碑があったらしいと知りました。公民館のとなりの、広場のようなところ。<em>よく友達と遊んでいた場所</em>です。行ってみたら、高さ２メートルくらいの石碑が残っていました。(中略)</p>
+	<p><cmd name="quad" gr="0"/><alert>それまで全然気づかなかった</alert>。よく残ってたなと思うと同時に、すごいショックで。後悔しきれなかった。<alert>もっと伝わっていれば、もっと多くの人が助かったのでは</alert>と。</p>
+	<!-- いわゆる「風化」 -->
+</block>
+</column>
+<column width="5cm">
+<img src="sekihi.jpg" scale=".4"/>
+</column>
+</multicols>
 </frame>
 
 <frame title="\insertsection">
