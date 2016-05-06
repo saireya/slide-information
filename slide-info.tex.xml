@@ -89,6 +89,38 @@
 </block>
 </frame>-->
 
+<s h="個人情報">
+<frame title="\insertsubsection">
+<block title="\insertsubsection" class="alert">
+	「<alert>個人情報</alert>」とは、個人に関する情報であって、当該情報に含まれる氏名、生年月日その他の記述により<alert>特定の個人を識別できる</alert>もの(<alert>他の情報と容易に照合でき、それにより特定の個人を識別</alert>できるものを含む)<br/>
+	(個人情報保護法第2条)
+</block>
+<img src="personality-individual.svg" scale=".3"/>
+</frame>
+
+<!-- TODO: 共通ポイントによる個人情報の扱い -->
+
+<frame title="\insertsubsection">
+<block title="プライバシー(privacy)" class="alert">
+	他人に知られたくない<alert>私的な情報</alert>
+	<!-- 「黒歴史」 -->
+</block>
+
+<block title="プライバシー権" class="alert">
+	プライバシーの公開を<alert>制限・管理</alert>する権利
+	<ul>
+		<li><alert>肖像権</alert>: 顔写真などの<ruby r="しょうぞう">肖像</ruby>に関するプライバシー権</li>
+		<li><em>忘れられる権利</em>: プライバシーの削除に関するプライバシー権</li>
+	</ul>
+</block>
+
+<block title="Q." class="example">
+	SNSへ他者の肖像を無許可で掲載するのが、問題となるのはなぜか?
+</block>
+<!-- TODO: 肖像権の図 -->
+</frame>
+</s>
+
 <s h="情報の主観性">
 <frame title="\insertsubsection">
 <img src="goch1.jpg" scale=".35" n="fig:goch1" title="van Goch「夜のカフェテラス」"/>
@@ -136,38 +168,6 @@
 		<li mark="⇨">情報は<alert>主観的</alert>なもの(<em>普遍的・客観的なものではない</em>)</li>
 	</ul>
 </block>
-</frame>
-</s>
-
-<s h="個人情報">
-<frame title="\insertsubsection">
-<block title="\insertsubsection" class="alert">
-	「<alert>個人情報</alert>」とは、個人に関する情報であって、当該情報に含まれる氏名、生年月日その他の記述により<alert>特定の個人を識別できる</alert>もの(<alert>他の情報と容易に照合でき、それにより特定の個人を識別</alert>できるものを含む)<br/>
-	(個人情報保護法第2条)
-</block>
-<img src="personality-individual.svg" scale=".3"/>
-</frame>
-
-<!-- TODO: 共通ポイントによる個人情報の扱い -->
-
-<frame title="\insertsubsection">
-<block title="プライバシー(privacy)" class="alert">
-	他人に知られたくない<alert>私的な情報</alert>
-	<!-- 「黒歴史」 -->
-</block>
-
-<block title="プライバシー権" class="alert">
-	プライバシーの公開を<alert>制限・管理</alert>する権利
-	<ul>
-		<li><alert>肖像権</alert>: 顔写真などの<ruby r="しょうぞう">肖像</ruby>に関するプライバシー権</li>
-		<li><em>忘れられる権利</em>: プライバシーの削除に関するプライバシー権</li>
-	</ul>
-</block>
-
-<block title="Q." class="example">
-	SNSへ他者の肖像を無許可で掲載するのが、問題となるのはなぜか?
-</block>
-<!-- TODO: 肖像権の図 -->
 </frame>
 </s>
 
