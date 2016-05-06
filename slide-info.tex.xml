@@ -171,21 +171,24 @@
 </frame>
 </s>
 
-<frame title="\insertsection">
+<s h="社会情報">
+<frame title="\insertsubsection">
 <block title="社会情報" class="alert">
 	<alert>記号・言語と意味が一体</alert>になった(生命)情報
 </block>
 <img src="pictogram.png" scale=".75" n="fig:pictogram" title="記号・言語の例(ピクトグラム)"/>
 </frame>
 
-<frame title="\insertsection">
+<frame title="\insertsubsection">
 <block title="ピクトグラム">
 <alert>言語が理解できなくても</alert>、<alert>字が読めなくても</alert>伝わる
 </block>
 <img src="pictogram-minefield.jpg" scale=".9" n="fig:minefield" title="ピクトグラムが危険を示す例(カンボジアの地雷敷設地帯)"/>
 </frame>
+</s>
 
-<frame title="\insertsection">
+<s h="機械情報">
+<frame title="\insertsubsection">
 <block title="機械情報" class="alert">
 	<alert>意味が潜在化</alert>した(意味を構築できない)社会情報
 	<ul>
@@ -196,7 +199,7 @@
 <img src="shakyo.jpg" scale=".75"/>
 </frame>
 
-<frame title="\insertsection">
+<frame title="\insertsubsection">
 <block title="コンピュータでの機械情報の扱い" class="alert">
 	2進数の数字1つを1 bit(<em>ビット</em>)とする
 	<ul>
@@ -208,6 +211,7 @@
 </block>
 </frame>
 <!--TODO: digital化: 音の標本化・量子化 -->
+</s>
 
 <frame title="\insertsection">
 <block class="alert">
