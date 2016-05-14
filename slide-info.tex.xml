@@ -124,12 +124,12 @@
 <s h="情報の主観性">
 <frame title="\insertsubsection">
 <multicols flex="1">
-<img src="iris1.jpg" scale=".2" n="fig:iris1" title="アヤメ"/>
-<img src="iris2.jpg" scale=".2" n="fig:iris2" title="カキツバタ"/>
+<img src="iris1.jpg" scale=".15" n="fig:iris1" title="アヤメ"/>
+<img src="iris2.jpg" scale=".15" n="fig:iris2" title="カキツバタ"/>
 </multicols>
 <multicols flex="1">
-<img src="iris3.jpg" scale=".2" n="fig:iris3" title="ハナショウブ"/>
-<img src="iris4.jpg" scale=".2" n="fig:iris4" title="ショウブ"/>
+<img src="iris3.jpg" scale=".15" n="fig:iris3" title="ハナショウブ"/>
+<img src="iris4.jpg" scale=".15" n="fig:iris4" title="ショウブ"/>
 </multicols>
 </frame>
 
