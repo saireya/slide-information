@@ -123,11 +123,11 @@
 
 <s h="情報の主観性">
 <frame title="\insertsubsection">
-<img src="goch1.jpg" scale=".35" n="fig:goch1" title="van Goch「夜のカフェテラス」"/>
+<img src="gogh1.jpg" scale=".35" n="fig:gogh1" title="van Goch「夜のカフェテラス」"/>
 </frame>
 
 <frame title="\insertsubsection">
-<img src="goch2.jpg" scale=".35" n="fig:goch2" title="van Goch「夜のカフェテラス」(P型補正後)"/>
+<img src="gogh2.jpg" scale=".35" n="fig:gogh2" title="van Goch「夜のカフェテラス」(P型補正後)"/>
 </frame>
 
 <frame title="\insertsubsection">
@@ -150,8 +150,8 @@
 
 <frame title="\insertsubsection">
 <multicols num="2">
-<img src="goch1.jpg" scale=".35"/>
-<img src="goch2.jpg" scale=".35"/>
+<img src="gogh1.jpg" scale=".35"/>
+<img src="gogh2.jpg" scale=".35"/>
 </multicols>
 </frame>
 
