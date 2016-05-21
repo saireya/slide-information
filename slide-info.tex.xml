@@ -186,8 +186,11 @@
 <frame title="\insertsubsection">
 <block title="社会情報" class="alert">
 	<alert>記号・言語と意味が一体</alert>になった(生命)情報
+	<ul>
+		<li mark="⇨">社会情報の存在がコミュニケーションを可能にする</li>
+	</ul>
 </block>
-<img src="pictogram.png" scale=".75" n="fig:pictogram" title="記号・言語の例(ピクトグラム)"/>
+<img src="pictogram.png" scale=".7" n="fig:pictogram" title="記号・言語の例(ピクトグラム)"/>
 </frame>
 
 <frame title="\insertsubsection">
