@@ -98,7 +98,9 @@
 <img src="personality-individual.svg" scale=".3"/>
 </frame>
 
-<!-- TODO: 共通ポイントによる個人情報の扱い -->
+<frame title="\insertsubsection">
+<img src="ccc.png" scale=".25"/>
+</frame>
 
 <frame title="\insertsubsection">
 <block title="プライバシー(privacy)" class="alert">
