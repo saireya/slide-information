@@ -89,6 +89,30 @@
 	<url>http://www.ryosokuin.com/syakyou</url>
 </misc></entry>
 
+<entry id="enigma"><misc>
+	<author>Greg Goebel</author>
+	<title>British Codebreakers In World War II - Vectors</title>
+	<url>http://www.vectorsite.net/ttcode_08.html</url>
+</misc></entry>
+
+<entry id="user-male"><misc>
+	<author>acspike</author>
+	<title>Clipart - male user icon</title>
+	<url>https://openclipart.org/detail/4749</url>
+</misc></entry>
+
+<entry id="user-female"><misc>
+	<author>dagobert83</author>
+	<title>Clipart - female user icon</title>
+	<url>https://openclipart.org/detail/1646</url>
+</misc></entry>
+
+<entry id="oxygen"><misc>
+	<author>KDE</author>
+	<title>Oxygen Icons</title>
+	<url>http://www.kde.org</url>
+</misc></entry>
+
 <entry id="sekihi"><misc>
 	<author>防災科学技術研究所 自然災害情報室</author>
 	<title>三陸地方の地震津波災害</title>
