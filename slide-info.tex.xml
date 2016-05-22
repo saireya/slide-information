@@ -385,7 +385,7 @@
 </frame>-->
 </s>
 
-
+<s h="「風化」">
 <frame title="\insertsection">
 <multicols>
 <column width="5cm">
@@ -507,6 +507,7 @@
 </column>
 </multicols>
 </frame>
+</s>
 </s>
 </article>
 </log>
