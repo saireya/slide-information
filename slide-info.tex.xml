@@ -372,9 +372,7 @@
 
 
 </s>
-</s>
-<s h="まとめ">
-<frame title="まとめ">
+<!--<frame title="まとめ">
 <block>
 <ul>
 	<li>暗号はいつか必ず破られる!</li>
@@ -384,7 +382,7 @@
 	<li>公開鍵暗号を応用すれば、誰が作ったデータかを<alert>署名</alert>することが可能</li>
 </ul>
 </block>
-</frame>
+</frame>-->
 </s>
 
 
