@@ -152,8 +152,8 @@
 </ul>
 </block>
 <multicols num="2">
-<img src="slide-ui-graph1.png" scale=".25" title="色だけで区別したグラフ"/>
-<img src="slide-ui-graph2.png" scale=".25" title="見え方によっては区別できない"/>
+<img src="color-graph1.png" scale=".25" title="色だけで区別したグラフ"/>
+<img src="color-graph2.png" scale=".25" title="見え方によっては区別できない"/>
 </multicols>
 <size size="small" xml:id="color-cite">
 出典:福島県『カラーユニバーサルデザインガイド』<br/>
