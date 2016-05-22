@@ -99,7 +99,7 @@
 </frame>
 
 <frame title="\insertsubsection">
-<img src="ccc.png" scale=".25"/>
+<img src="ccc.png" scale=".25" n="fig:ccc" title="共通ポイント提携社間での個人情報の利用例"/>
 </frame>
 
 <frame title="\insertsubsection">
