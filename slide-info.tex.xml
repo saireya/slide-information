@@ -243,7 +243,7 @@
 <block class="alert">
 	<alert>\[ \text{生命情報} \supset \text{社会情報} \supset \text{機械情報} \]</alert>
 	<ul>
-		<li mark="※">情報は主観的なものなので、「Aにとっては機械情報」であるものが「Bにとっては機械情報でない」ことがありうる</li>
+		<li mark="※">情報は主観的なものなので、「Aにとっては機械情報」であるものが「Bにとっては(社会情報だが)機械情報ではない」ことがありうる</li>
 	</ul>
 </block>
 <img src="inclusion.svg" scale=".7"/>
