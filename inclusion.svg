@@ -138,15 +138,15 @@
       <g id="id5">
        <g>
         <defs>
-         <linearGradient id="gradient3" x1="7432" y1="6400" x2="8832" y2="7800" gradientUnits="userSpaceOnUse">
+         <linearGradient id="gradient3" x1="7832" y1="6400" x2="9232" y2="7800" gradientUnits="userSpaceOnUse">
           <stop offset="0" style="stop-color:rgb(255,191,127)"/>
           <stop offset="1" style="stop-color:rgb(255,255,255)"/>
          </linearGradient>
         </defs>
-        <path style="fill:url(#gradient3)" d="M 8132,6600 L 8226,6603 8317,6610 8404,6622 8488,6638 8567,6659 8641,6684 8710,6712 8773,6744 8831,6779 8882,6817 8926,6859 8963,6902 8993,6949 9014,6997 9022,7022 9027,7048 9031,7074 9032,7100 9031,7126 9027,7152 9022,7178 9014,7203 8993,7251 8963,7298 8926,7341 8882,7383 8831,7421 8773,7456 8710,7488 8641,7516 8567,7541 8488,7562 8404,7578 8317,7590 8226,7597 8132,7600 8038,7597 7947,7590 7860,7578 7776,7562 7698,7541 7623,7516 7555,7488 7491,7456 7434,7421 7383,7383 7339,7341 7302,7298 7272,7251 7251,7203 7243,7178 7237,7152 7234,7126 7233,7100 7234,7074 7237,7048 7243,7022 7251,6997 7272,6949 7302,6902 7339,6859 7383,6817 7434,6779 7491,6744 7555,6712 7623,6684 7698,6659 7776,6638 7860,6622 7947,6610 8038,6603 8132,6600 Z"/>
+        <path style="fill:url(#gradient3)" d="M 8532,6600 L 8626,6603 8717,6610 8804,6622 8888,6638 8967,6659 9041,6684 9110,6712 9173,6744 9231,6779 9282,6817 9326,6859 9363,6902 9393,6949 9414,6997 9422,7022 9427,7048 9431,7074 9432,7100 9431,7126 9427,7152 9422,7178 9414,7203 9393,7251 9363,7298 9326,7341 9282,7383 9231,7421 9173,7456 9110,7488 9041,7516 8967,7541 8888,7562 8804,7578 8717,7590 8626,7597 8532,7600 8438,7597 8347,7590 8260,7578 8176,7562 8098,7541 8023,7516 7955,7488 7891,7456 7834,7421 7783,7383 7739,7341 7702,7298 7672,7251 7651,7203 7643,7178 7637,7152 7634,7126 7633,7100 7634,7074 7637,7048 7643,7022 7651,6997 7672,6949 7702,6902 7739,6859 7783,6817 7834,6779 7891,6744 7955,6712 8023,6684 8098,6659 8176,6638 8260,6622 8347,6610 8438,6603 8532,6600 Z"/>
        </g>
-       <path fill="none" stroke="rgb(255,127,0)" stroke-width="50" stroke-linejoin="round" d="M 8132,6600 C 8642,6600 9032,6817 9032,7100 9032,7383 8642,7600 8132,7600 7622,7600 7233,7383 7233,7100 7233,6817 7622,6600 8132,6600 Z"/>
-       <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="7396" y="7030"/><tspan class="TextPosition" x="7396" y="7030"><tspan fill="rgb(223,111,0)" stroke="none">機械情報</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="370px" font-weight="400"><tspan class="TextPosition" x="7756" y="7462"/><tspan class="TextPosition" x="7756" y="7462"><tspan fill="rgb(223,111,0)" stroke="none">for A</tspan></tspan></tspan></text>
+       <path fill="none" stroke="rgb(255,127,0)" stroke-width="50" stroke-linejoin="round" d="M 8532,6600 C 9042,6600 9432,6817 9432,7100 9432,7383 9042,7600 8532,7600 8022,7600 7633,7383 7633,7100 7633,6817 8022,6600 8532,6600 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="7796" y="7030"/><tspan class="TextPosition" x="7796" y="7030"><tspan fill="rgb(223,111,0)" stroke="none">機械情報</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="370px" font-weight="400"><tspan class="TextPosition" x="8156" y="7462"/><tspan class="TextPosition" x="8156" y="7462"><tspan fill="rgb(223,111,0)" stroke="none">for A</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.CustomShape">
@@ -208,15 +208,15 @@
       <g id="id11">
        <g>
         <defs>
-         <linearGradient id="gradient7" x1="9453" y1="6425" x2="10853" y2="7825" gradientUnits="userSpaceOnUse">
+         <linearGradient id="gradient7" x1="9553" y1="6425" x2="10953" y2="7825" gradientUnits="userSpaceOnUse">
           <stop offset="0" style="stop-color:rgb(255,191,127)"/>
           <stop offset="1" style="stop-color:rgb(255,255,255)"/>
          </linearGradient>
         </defs>
-        <path style="fill:url(#gradient7)" d="M 10153,6625 L 10247,6628 10338,6635 10425,6647 10509,6663 10588,6684 10662,6709 10731,6737 10794,6769 10852,6804 10903,6842 10947,6884 10984,6927 11014,6974 11035,7022 11043,7047 11048,7073 11052,7099 11053,7125 11052,7151 11048,7177 11043,7203 11035,7228 11014,7276 10984,7323 10947,7366 10903,7408 10852,7446 10794,7481 10731,7513 10662,7541 10588,7566 10509,7587 10425,7603 10338,7615 10247,7622 10153,7625 10059,7622 9968,7615 9881,7603 9797,7587 9719,7566 9644,7541 9576,7513 9512,7481 9455,7446 9404,7408 9360,7366 9323,7323 9293,7276 9272,7228 9264,7203 9258,7177 9255,7151 9254,7125 9255,7099 9258,7073 9264,7047 9272,7022 9293,6974 9323,6927 9360,6884 9404,6842 9455,6804 9512,6769 9576,6737 9644,6709 9719,6684 9797,6663 9881,6647 9968,6635 10059,6628 10153,6625 Z"/>
+        <path style="fill:url(#gradient7)" d="M 10253,6625 L 10347,6628 10438,6635 10525,6647 10609,6663 10688,6684 10762,6709 10831,6737 10894,6769 10952,6804 11003,6842 11047,6884 11084,6927 11114,6974 11135,7022 11143,7047 11148,7073 11152,7099 11153,7125 11152,7151 11148,7177 11143,7203 11135,7228 11114,7276 11084,7323 11047,7366 11003,7408 10952,7446 10894,7481 10831,7513 10762,7541 10688,7566 10609,7587 10525,7603 10438,7615 10347,7622 10253,7625 10159,7622 10068,7615 9981,7603 9897,7587 9819,7566 9744,7541 9676,7513 9612,7481 9555,7446 9504,7408 9460,7366 9423,7323 9393,7276 9372,7228 9364,7203 9358,7177 9355,7151 9354,7125 9355,7099 9358,7073 9364,7047 9372,7022 9393,6974 9423,6927 9460,6884 9504,6842 9555,6804 9612,6769 9676,6737 9744,6709 9819,6684 9897,6663 9981,6647 10068,6635 10159,6628 10253,6625 Z"/>
        </g>
-       <path fill="none" stroke="rgb(255,127,0)" stroke-width="50" stroke-linejoin="round" d="M 10153,6625 C 10663,6625 11053,6842 11053,7125 11053,7408 10663,7625 10153,7625 9643,7625 9254,7408 9254,7125 9254,6842 9643,6625 10153,6625 Z"/>
-       <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="9417" y="7055"/><tspan class="TextPosition" x="9417" y="7055"><tspan fill="rgb(223,111,0)" stroke="none">機械情報</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="370px" font-weight="400"><tspan class="TextPosition" x="9766" y="7487"/><tspan class="TextPosition" x="9766" y="7487"><tspan fill="rgb(223,111,0)" stroke="none">for B</tspan></tspan></tspan></text>
+       <path fill="none" stroke="rgb(255,127,0)" stroke-width="50" stroke-linejoin="round" d="M 10253,6625 C 10763,6625 11153,6842 11153,7125 11153,7408 10763,7625 10253,7625 9743,7625 9354,7408 9354,7125 9354,6842 9743,6625 10253,6625 Z"/>
+       <text class="TextShape"><tspan class="TextParagraph" font-family="VL Pゴシック" font-size="370px" font-weight="400"><tspan class="TextPosition" x="9517" y="7055"/><tspan class="TextPosition" x="9517" y="7055"><tspan fill="rgb(223,111,0)" stroke="none">機械情報</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="370px" font-weight="400"><tspan class="TextPosition" x="9866" y="7487"/><tspan class="TextPosition" x="9866" y="7487"><tspan fill="rgb(223,111,0)" stroke="none">for B</tspan></tspan></tspan></text>
       </g>
      </g>
      <g class="com.sun.star.drawing.TextShape">
