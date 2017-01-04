@@ -12,14 +12,12 @@
 
 <frame title="\insertsection">
 <block title="「アナログ」と「ディジタル」(p.82)" class="alert">
-	<!-- TODO: 「実数」は数I! -->
 	<ul>
 		<li><alert>analog</alert>(← analogy: 類推): <em>連続的</em>なもの(例. 実数, 水の体積, 実線)</li>
 		<li><alert>digital</alert>(← digit: 数字): <em>離散的</em>なもの(例. 整数, クッキーの個数, 点線)</li>
 		<li mark="※">「アナログ = 古い」「ディジタル = 新しい」ではない!</li>
 	</ul>
 </block>
-<!-- TODO: アナログとディジタルの例を表す図 -->
 </frame>
 
 <frame title="\insertsection">
@@ -38,7 +36,6 @@
 		<li><em>アイデアを結合し発展させる</em>:<br/>
 			2つのものをくっつけたり一部を変化させて新たなアイデアを生み出す</li>
 	</ul>
-	<!-- TODO: Wikipedia以外の出典 -->
 </block>
 </frame>
 
@@ -66,7 +63,6 @@
 	<alert>information(情報)</alert> = <alert>生命の内部に「何か」を形成させる「何か」</alert><br/>
 	(これを「<alert>生命情報</alert>」と呼ぶ)
 </block>
-<!-- TODO: 情報により生命が変化(autopoiesis)することをどこかに? -->
 
 <block title="参考:「情報」の定義">
 	<ul>
@@ -119,7 +115,6 @@
 <block title="Q." class="example">
 	SNSへ他者の肖像を無許可で掲載するのが、問題となるのはなぜか?
 </block>
-<!-- TODO: 肖像権の図 -->
 </frame>
 </s>
 
@@ -236,7 +231,6 @@
 	</ul>
 </block>
 </frame>
-<!--TODO: digital化: 音の標本化・量子化 -->
 </s>
 
 <frame title="\insertsection">
