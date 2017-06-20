@@ -238,7 +238,7 @@
 </frame>
 
 <frame title="\insertsubsection">
-<block title="コンピュータでの機械情報の扱い" class="alert">
+<block title="コンピュータでの機械情報の扱い(p.83)" class="alert">
 	2進数の数字1つを1 bit(<em>ビット</em>)とする
 	<ul>
 		<li>「8bit = 1B(<em>バイト</em>)」</li>
@@ -289,7 +289,7 @@
 </frame>
 
 <s h="共通鍵暗号">
-<frame title="共通鍵暗号(p.66)">
+<frame title="共通鍵暗号(p.64, 66)">
 <block class="alert">
 暗号化と復号を<em>共通の鍵</em>で行う暗号
 </block>
