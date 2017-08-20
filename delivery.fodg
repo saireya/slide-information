@@ -484,7 +484,7 @@
      <text:p/>
     </draw:connector>
     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="公開鍵(public)" svg:width="0.78cm" svg:height="0.78cm" svg:x="5.688cm" svg:y="10.1cm">
-     <draw:image xlink:href="Open-Padlock.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+     <draw:image xlink:href="unlocked.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
       <text:p/>
      </draw:image>
     </draw:frame>
@@ -495,7 +495,7 @@
       </draw:image>
      </draw:frame>
      <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="公開鍵(public)" svg:width="1.032cm" svg:height="1.031cm" svg:x="12.911cm" svg:y="8.4cm">
-      <draw:image xlink:href="AJ-Padlock.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <draw:image xlink:href="locked.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
        <text:p/>
       </draw:image>
      </draw:frame>
@@ -507,7 +507,7 @@
       </draw:image>
      </draw:frame>
      <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="公開鍵(public)" svg:width="0.774cm" svg:height="0.772cm" svg:x="7.283cm" svg:y="9.149cm">
-      <draw:image xlink:href="AJ-Padlock.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <draw:image xlink:href="locked.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
        <text:p/>
       </draw:image>
      </draw:frame>
@@ -519,13 +519,13 @@
       </draw:image>
      </draw:frame>
      <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="公開鍵(public)" svg:width="0.774cm" svg:height="0.772cm" svg:x="19.583cm" svg:y="9.149cm">
-      <draw:image xlink:href="AJ-Padlock.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <draw:image xlink:href="locked.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
        <text:p/>
       </draw:image>
      </draw:frame>
     </draw:g>
     <draw:frame draw:style-name="gr1" draw:text-style-name="P3" draw:layer="公開鍵(public)" svg:width="1.5cm" svg:height="1.5cm" svg:x="12.288cm" svg:y="4.2cm">
-     <draw:image xlink:href="Open-Padlock.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+     <draw:image xlink:href="unlocked.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
       <text:p text:style-name="P1"><text:s text:c="36"/>Bobの公開鍵</text:p>
      </draw:image>
     </draw:frame>
