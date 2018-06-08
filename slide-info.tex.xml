@@ -154,6 +154,18 @@
 </frame>
 
 <frame title="\insertsubsection">
+<img src="keio2.jpg" scale=".3"/>
+<size size="small" xml:id="keio-cite">
+出典:<a href="http://w0s.jp/diary/285">「アクセシビリティキャンプ東京 第6回 と駅時刻表の色について - 富永日記帳」</a>
+</size>
+</frame>
+
+<frame title="\insertsubsection">
+<img src="keio1.jpg" scale=".3"/>
+<xi:include xpointer="xpointer(id('keio-cite'))"/>
+</frame>
+
+<frame title="\insertsubsection">
 <multicols num="2">
 <img src="gogh1.jpg" scale=".35"/>
 <img src="gogh2.jpg" scale=".35"/>
@@ -198,10 +210,20 @@
 </frame>
 
 <frame title="\insertsubsection">
-<block title="ピクトグラム">
+<block title="ピクトグラム" xml:id="b-pictogram">
 <alert>言語が理解できなくても</alert>、<alert>字が読めなくても</alert>伝わる
 </block>
 <img src="pictogram-minefield.jpg" scale=".9" n="fig:minefield" title="ピクトグラムが危険を示す例(カンボジアの地雷敷設地帯)"/>
+</frame>
+
+<frame title="\insertsubsection">
+<xi:include xpointer="xpointer(id('b-pictogram'))"/>
+<img src="toilet2.jpg" scale=".25" title="どちらに入る? (出典:Twitter)"/>
+</frame>
+
+<frame title="\insertsubsection">
+<xi:include xpointer="xpointer(id('b-pictogram'))"/>
+<img src="toilet.jpg" scale=".8" title="曖昧なピクトグラムの例 (出典:楽しいBADUIの世界)"/>
 </frame>
 
 <frame title="\insertsubsection">
