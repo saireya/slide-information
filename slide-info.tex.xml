@@ -11,16 +11,6 @@
 </frame>
 
 <frame title="\insertsection">
-<block title="「アナログ」と「ディジタル」(p.82)" class="alert">
-	<ul>
-		<li><alert>analog</alert>(← analogy: 類推): <em>連続的</em>なもの(例. 実数, 水の体積, 実線)</li>
-		<li><alert>digital</alert>(← digit: 数字): <em>離散的</em>なもの(例. 整数, クッキーの個数, 点線)</li>
-		<li mark="※">「アナログ = 古い」「ディジタル = 新しい」ではない!</li>
-	</ul>
-</block>
-</frame>
-
-<frame title="\insertsection">
 <block class="example" title="Q.">
 	<em>「○○は情報である」</em>という<em>「情報の例」</em>をできるだけ多く挙げよ
 </block>
@@ -59,9 +49,11 @@
 
 <frame title="\insertsection">
 <block title="Information" class="alert">
-	inform = in(<em>内部に</em>) + form(<em>形成する</em>)<br/>
-	<alert>information(情報)</alert> = <alert>生命の内部に「何か」を形成させる「何か」</alert><br/>
-	(これを「<alert>生命情報</alert>」と呼ぶ)
+	<alert>生命の内部に「何か(内容)」を形成させる「何か(表現)」</alert><br/>
+	(inform = in(<em>内部に</em>) + form(<em>形成する</em>))
+	<ul>
+		<li mark="⇨"><em>表現</em>$\alpha$と<em>内容</em>$\beta$の<em>組</em>$(\alpha, \beta)$で表せる(はず)</li>
+	</ul>
 </block>
 
 <block title="参考:「情報」の定義">
@@ -71,6 +63,22 @@
 		<li>「<em>差異</em>をつくる<em>差異</em>」(by G. Bateson(文化人類学者))</li>
 	</ul>
 </block>
+</frame>
+
+<frame title="\insertsection">
+	<block title="情報の分類" class="alert">
+		$\alpha$: <em>表現</em>, $\beta$: <em>内容</em> ($\epsilon$は空列(empty)で、「何もない」ことを表す)
+		<ul>
+			<li><strong>生命情報</strong>$(\epsilon,  \beta)$: <em>内容</em>$\beta$のみで、表現が対応していない情報</li>
+			<li><strong>社会情報</strong>$(\alpha,    \beta)$: <em>表現</em>$\alpha$と<em>内容</em>$\beta$が対応している情報</li>
+			<li><strong>機械情報</strong>$(\alpha, \epsilon)$: <em>表現</em>$\alpha$のみで、内容が対応していない情報</li>
+		</ul>
+	</block>
+	<img src="information.svg" scale=".75"/>
+</frame>
+
+<frame title="\insertsection">
+	<img src="information.svg" scale=".75"/>
 </frame>
 
 <!--<frame title="\insertsection">
@@ -115,98 +123,25 @@
 </frame>
 </s>
 
-<s h="情報の主観性">
-<frame title="\insertsubsection">
-<multicols flex="1">
-<img src="iris1.jpg" scale=".15" n="fig:iris1" title="アヤメ"/>
-<img src="iris2.jpg" scale=".15" n="fig:iris2" title="カキツバタ"/>
-</multicols>
-<multicols flex="1">
-<img src="iris3.jpg" scale=".15" n="fig:iris3" title="ハナショウブ"/>
-<img src="iris4.jpg" scale=".15" n="fig:iris4" title="ショウブ"/>
-</multicols>
-</frame>
-
-<frame title="\insertsubsection">
-<img src="gogh1.jpg" scale=".35" n="fig:gogh1" title="van Gogh「夜のカフェテラス」"/>
-</frame>
-
-<frame title="\insertsubsection">
-<img src="gogh2.jpg" scale=".35" n="fig:gogh2" title="van Gogh「夜のカフェテラス」(P型補正後)"/>
-</frame>
-
-<frame title="\insertsubsection">
-<block title="参考: 色覚異常">
-<em>色の見え方・感じ方</em>が、多くの人とは異なる状態
-<ul>
-	<li>日本人女性の$0.2\%$、日本人男性の$5\%$、仏・北欧では男性の$10\%$</li>
-	<li><c fg="red">赤</c>と<c fg="green">緑</c>など、区別しにくい色が多くの人と違う</li>
-</ul>
-</block>
-<multicols num="2">
-<img src="color-graph1.png" scale=".25" title="色だけで区別したグラフ"/>
-<img src="color-graph2.png" scale=".25" title="見え方によっては区別できない"/>
-</multicols>
-<size size="small" xml:id="color-cite">
-出典:福島県『カラーユニバーサルデザインガイド』<br/>
-<a href="http://www.pref.fukushima.lg.jp/sec/16005c/ud-cudguide04.html"/>
-</size>
-</frame>
-
-<frame title="\insertsubsection">
-<img src="keio2.jpg" scale=".3"/>
-<size size="small" xml:id="keio-cite">
-出典:<a href="http://w0s.jp/diary/285">「アクセシビリティキャンプ東京 第6回 と駅時刻表の色について - 富永日記帳」</a>
-</size>
-</frame>
-
-<frame title="\insertsubsection">
-<img src="keio1.jpg" scale=".3"/>
-<xi:include xpointer="xpointer(id('keio-cite'))"/>
-</frame>
-
-<frame title="\insertsubsection">
-<multicols num="2">
-<img src="gogh1.jpg" scale=".35"/>
-<img src="gogh2.jpg" scale=".35"/>
-</multicols>
-</frame>
-
-<frame title="\insertsubsection">
-<block class="alert" title="情報の主観性">
-	たとえ同じものを見ても、人の内部で何が形成されるかは、人それぞれ異なる
-	(その人が持つ<em>経験</em>や<em>知識</em>で変化)
-	<ul>
-		<li mark="⇨">情報は<alert>主観的</alert>なもの(<em>普遍的・客観的なものではない</em>)</li>
-	</ul>
-</block>
-
-<block title="岡本太郎『今日の芸術』より">
-	<p>はたしてあなたは画面の上にある色や形を、写真機のレンズが対象のイメージをそのまま映すように見ているかどうか、考えてみれば疑問です。あなたはそこにある画布、<em>目に映っている対象を見ていると思いながら、じつはあなたの見たいとのぞんでいるものを、心の中にみつめている</em>のではないでしょうか。</p>
-	<p>それはあなたのイマジネーションによって、自分が創りあげた画面です。一枚の絵を十人が見たばあい、その十人の<em>心の中に映る絵の姿は、それぞれまったく異なった十だけのイメージになって浮かんでいる</em>とみてさしつかえありません。<em>人によって感激の度合いがちがうし、評価もちがいます</em>。同じように好きだといっても十人十色、その好き方はまたさまざまです。</p>
-</block>
-</frame>
-</s>
-
 <s h="社会情報">
 <frame title="\insertsubsection">
-<block title="社会情報" class="alert">
-	<alert>記号・言語と意味が一体</alert>になった(生命)情報
-	<ul>
-		<li mark="⇨">社会情報の存在がコミュニケーションを可能にする</li>
-	</ul>
-</block>
-<img src="iloveyou.svg" scale=".25" n="fig:iloveyou" title="記号・言語の例(世界の言語)"/>
+	<block title="社会情報$(\alpha, \beta)$" class="alert">
+		<alert>表現$\alpha$と内容$\beta$が対応</alert>している情報
+		<ul>
+			<li mark="⇨">社会情報によりコミュニケーションが可能になり、社会が成立する</li>
+		</ul>
+	</block>
+	<img src="iloveyou.svg" scale=".25" n="fig:iloveyou" title="社会情報の例(世界の言語)"/>
 </frame>
 
 <frame title="\insertsubsection">
-<block title="社会情報" class="alert">
-	<alert>記号・言語と意味が一体</alert>になった(生命)情報
-	<ul>
-		<li mark="⇨">社会情報の存在がコミュニケーションを可能にする</li>
-	</ul>
-</block>
-<img src="pictogram.png" scale=".7" n="fig:pictogram" title="記号・言語の例(ピクトグラム)"/>
+	<block title="社会情報$(\alpha, \beta)$" class="alert">
+		<alert>表現$\alpha$と内容$\beta$が対応</alert>している情報
+		<ul>
+			<li mark="⇨">社会情報によりコミュニケーションが可能になり、社会が成立する</li>
+		</ul>
+	</block>
+	<img src="pictogram.png" scale=".7" n="fig:pictogram" title="社会情報の例(ピクトグラム)"/>
 </frame>
 
 <frame title="\insertsubsection">
@@ -246,10 +181,10 @@
 
 <s h="機械情報">
 <frame title="\insertsubsection">
-<block title="機械情報" class="alert">
-	<alert>意味が潜在化</alert>した(意味を構築できない)社会情報
+<block title="機械情報$(\alpha, \epsilon)$" class="alert">
+	<alert>表現$\alpha$</alert>のみで、内容が対応していない情報
 	<ul>
-		<li>意味を構築できなくても<em>コピー</em>することはできる</li>
+		<li>復号しなくても<em>コピー</em>することはできる</li>
 		<li><em>コンピュータで扱える</em>のは機械情報のみ</li>
 	</ul>
 </block>
@@ -257,7 +192,7 @@
 </frame>
 
 <frame title="\insertsubsection">
-<block title="コンピュータでの機械情報の扱い(p.83)" class="alert">
+<block title="コンピュータでの機械情報の扱い" class="alert">
 	2進数の数字1つを1 bit(<em>ビット</em>)とする
 	<ul>
 		<li>「8bit = 1B(<em>バイト</em>)」</li>
@@ -267,18 +202,17 @@
 	</ul>
 </block>
 </frame>
-</s>
 
-<frame title="\insertsection">
-<block class="alert">
-	<alert>\[ \text{生命情報} \supset \text{社会情報} \supset \text{機械情報} \]</alert>
-	<ul>
-		<li mark="※">情報は主観的なものなので、「Aにとっては機械情報」であるものが「Bにとっては(社会情報だが)機械情報ではない」ことがありうる</li>
-	</ul>
-</block>
-<img src="inclusion.svg" scale=".7"/>
+<frame title="\insertsubsection">
+	<block title="「アナログ」と「ディジタル」" class="alert">
+		<ul>
+			<li><alert>analog</alert>(← analogy: 類推): <em>連続的</em>なもの(例. 実数, 水の体積, 実線)</li>
+			<li><alert>digital</alert>(← digit: 数字): <em>離散的</em>なもの(例. 整数, クッキーの個数, 点線)</li>
+			<li mark="※">「アナログ = 古い」「ディジタル = 新しい」ではない!</li>
+		</ul>
+	</block>
 </frame>
-
+</s>
 
 <s h="暗号">
 <frame title="暗号(p.64)">
