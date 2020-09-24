@@ -70,8 +70,8 @@
 		$\alpha$: <em>表現</em>, $\beta$: <em>内容</em> ($\epsilon$は空列(empty)で、「何もない」ことを表す)
 		<ul>
 			<li><strong>生命情報</strong>$(\epsilon,  \beta)$: <em>内容</em>$\beta$のみで、表現が対応していない情報</li>
-			<li><strong>社会情報</strong>$(\alpha,    \beta)$: <em>表現</em>$\alpha$と<em>内容</em>$\beta$が対応している情報</li>
-			<li><strong>機械情報</strong>$(\alpha, \epsilon)$: <em>表現</em>$\alpha$のみで、内容が対応していない情報</li>
+			<li><strong>社会情報</strong>$(\alpha,    \beta)$: <em>表現</em>$\alpha$と<em>内容</em>$\beta$が対応している情報(<em>記号</em>/<em>符号</em>)</li>
+			<li><strong>機械情報</strong>$(\alpha, \epsilon)$: <em>表現</em>$\alpha$のみで、内容が対応していない情報(<em>データ</em>)</li>
 		</ul>
 	</block>
 	<img src="information.svg" scale=".75"/>
@@ -131,9 +131,9 @@
 <s h="社会情報">
 <frame title="\insertsubsection">
 	<block title="社会情報$(\alpha, \beta)$" class="alert">
-		<alert>表現$\alpha$と内容$\beta$が対応</alert>している情報
+		<alert>表現$\alpha$と内容$\beta$が対応</alert>している情報(<em>記号</em>(sign)や<em>符号</em>(code)ともいう)
 		<ul>
-			<li mark="⇨">社会情報によりコミュニケーションが可能になり、社会が成立する</li>
+			<li mark="⇨">社会情報によりコミュニケーションが可能になり、<strong>社会が成立</strong>する</li>
 		</ul>
 	</block>
 	<img src="iloveyou.svg" scale=".25" n="fig:iloveyou" title="社会情報の例(世界の言語)"/>
@@ -141,9 +141,9 @@
 
 <frame title="\insertsubsection">
 	<block title="社会情報$(\alpha, \beta)$" class="alert">
-		<alert>表現$\alpha$と内容$\beta$が対応</alert>している情報
+		<alert>表現$\alpha$と内容$\beta$が対応</alert>している情報(<em>記号</em>(sign)や<em>符号</em>(code)ともいう)
 		<ul>
-			<li mark="⇨">社会情報によりコミュニケーションが可能になり、社会が成立する</li>
+			<li mark="⇨">社会情報によりコミュニケーションが可能になり、<strong>社会が成立</strong>する</li>
 		</ul>
 	</block>
 	<img src="pictogram.png" scale=".7" n="fig:pictogram" title="社会情報の例(ピクトグラム)"/>
@@ -187,10 +187,10 @@
 <s h="機械情報">
 <frame title="\insertsubsection">
 <block title="機械情報$(\alpha, \epsilon)$" class="alert">
-	<alert>表現$\alpha$</alert>のみで、内容が対応していない情報
+	<alert>表現$\alpha$</alert>のみで、内容が対応していない情報(<em>データ</em>(data)ともいう)
 	<ul>
-		<li>復号しなくても<em>コピー</em>することはできる</li>
-		<li><em>コンピュータで扱える</em>のは機械情報のみ</li>
+		<li>復号しなくても(できなくても)<em>コピー</em>することはできる</li>
+		<li>コンピュータなどの<strong>機械で扱える</strong>のは機械情報のみ</li>
 	</ul>
 </block>
 <img src="shakyo.jpg" scale=".75"/>
