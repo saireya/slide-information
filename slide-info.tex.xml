@@ -93,14 +93,19 @@
 <s h="個人情報">
 <frame title="\insertsubsection">
 <block title="\insertsubsection" class="alert">
-	「<alert>個人情報</alert>」とは、個人に関する情報であって、当該情報に含まれる氏名、生年月日その他の記述により<alert>特定の個人を識別できる</alert>もの(<alert>他の情報と容易に照合でき、それにより特定の個人を識別</alert>できるものを含む)<br/>
+	「<alert>個人情報</alert>」とは、生存する個人に関する情報であって、
+	<ol>
+		<li>当該情報に含まれる氏名、生年月日その他の記述により<alert>特定の個人を識別できる</alert>もの(<alert>他の情報と容易に照合でき、それにより特定の個人を識別</alert>できるものを含む)</li>
+		<li><em>個人識別符号</em>が含まれるもの<br/>
+			(指紋・個人番号・カード番号など、1点で個人を識別できるもの)</li>
+	</ol>
 	(個人情報保護法第2条)
 </block>
 <img src="personality-individual.svg" scale=".3"/>
 </frame>
 
 <frame title="\insertsubsection">
-<img src="ccc.png" scale=".25" n="fig:ccc" title="共通ポイント提携社間での個人情報の利用例"/>
+<img src="ccc.png" scale=".3" n="fig:ccc" title="共通ポイント提携社間での個人情報の利用例"/>
 </frame>
 
 <frame title="\insertsubsection">
