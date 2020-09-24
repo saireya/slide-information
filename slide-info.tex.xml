@@ -10,7 +10,8 @@
 <img src="internet.jpg" scale=".25"/>
 </frame>
 
-<frame title="\insertsection">
+<s h="情報の定義">
+<frame title="\insertsubsection">
 <block class="example" title="Q.">
 	<em>「○○は情報である」</em>という<em>「情報の例」</em>をできるだけ多く挙げよ
 </block>
@@ -29,7 +30,7 @@
 </block>
 </frame>
 
-<frame title="\insertsection">
+<frame title="\insertsubsection">
 <block title="じょう‐ほう【情報】">
 	<ol>
 		<li>ある物事の内容や事情についての知らせ。<em>インフォメーション</em>。</li>
@@ -47,7 +48,7 @@
 </block>-->
 </frame>
 
-<frame title="\insertsection">
+<frame title="\insertsubsection">
 <block title="Information" class="alert">
 	<alert>生命の内部に「何か(内容)」を形成させる「何か(表現)」</alert><br/>
 	(inform = in(<em>内部に</em>) + form(<em>形成する</em>))
@@ -64,31 +65,7 @@
 	</ul>
 </block>
 </frame>
-
-<frame title="\insertsection">
-	<block title="情報の分類" class="alert">
-		$\alpha$: <em>表現</em>, $\beta$: <em>内容</em> ($\epsilon$は空列(empty)で、「何もない」ことを表す)
-		<ul>
-			<li><strong>生命情報</strong>$(\epsilon,  \beta)$: <em>内容</em>$\beta$のみで、表現が対応していない情報</li>
-			<li><strong>社会情報</strong>$(\alpha,    \beta)$: <em>表現</em>$\alpha$と<em>内容</em>$\beta$が対応している情報(<em>記号</em>/<em>符号</em>)</li>
-			<li><strong>機械情報</strong>$(\alpha, \epsilon)$: <em>表現</em>$\alpha$のみで、内容が対応していない情報(<em>データ</em>)</li>
-		</ul>
-	</block>
-	<img src="information.svg" scale=".75"/>
-</frame>
-
-<frame title="\insertsection">
-	<img src="information.svg" scale=".75"/>
-</frame>
-
-<!--<frame title="\insertsection">
-<block title="課題" class="example">
-	各班で考えた「情報の例」が、本当に情報であるか各自で判定せよ
-	<ul>
-		<li>「情報でない」ものについては、なぜ情報でないのか<em>理由</em>を書くこと</li>
-	</ul>
-</block>
-</frame>-->
+</s>
 
 <s h="個人情報">
 <frame title="\insertsubsection">
@@ -126,6 +103,33 @@
 	SNSへ他者の肖像を無許可で掲載するのが、問題となるのはなぜか?
 </block>
 </frame>
+</s>
+
+<s h="情報の分類">
+<frame title="\insertsubsection">
+	<block title="情報の分類" class="alert">
+		$\alpha$: <em>表現</em>, $\beta$: <em>内容</em> ($\epsilon$は空列(empty)で、「何もない」ことを表す)
+		<ul>
+			<li><strong>生命情報</strong>$(\epsilon,  \beta)$: <em>内容</em>$\beta$のみで、表現が対応していない情報</li>
+			<li><strong>社会情報</strong>$(\alpha,    \beta)$: <em>表現</em>$\alpha$と<em>内容</em>$\beta$が対応している情報(<em>記号</em>/<em>符号</em>)</li>
+			<li><strong>機械情報</strong>$(\alpha, \epsilon)$: <em>表現</em>$\alpha$のみで、内容が対応していない情報(<em>データ</em>)</li>
+		</ul>
+	</block>
+	<img src="information.svg" scale=".75"/>
+</frame>
+
+<frame title="\insertsubsection">
+	<img src="information.svg" scale=".75"/>
+</frame>
+
+<!--<frame title="\insertsection">
+<block title="課題" class="example">
+	各班で考えた「情報の例」が、本当に情報であるか各自で判定せよ
+	<ul>
+		<li>「情報でない」ものについては、なぜ情報でないのか<em>理由</em>を書くこと</li>
+	</ul>
+</block>
+</frame>-->
 </s>
 
 <s h="社会情報">
