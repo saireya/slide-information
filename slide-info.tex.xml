@@ -132,6 +132,28 @@
 </frame>-->
 </s>
 
+<s h="生命情報">
+<frame title="\insertsubsection">
+	<block title="生命情報$(\epsilon, \beta)$" class="alert">
+		<alert>内容$\beta$</alert>のみで、表現が対応していない情報
+		<ul>
+			<li mark="⇨">生命情報による思考が<strong>生命活動の基礎</strong>となる</li>
+		</ul>
+	</block>
+
+	<block title="生命情報が関係する例" class="example">
+		<ul>
+			<li>福祉・医療分野でいう「<em>もやもや</em>(する)」:<br/>
+				言語化できていない思考が心の中にある状態<br/>
+				(上手く言い表せない思いがぐるぐる回り、「しんどさ」の原因になる)</li>
+			<li>言語学における「<em>Double limited</em>(Semilingual)」: <br/>
+				「この言語なら自分の思いを表現できる」といえる言語がない状態<br/>
+				(BilingualやMultilingual(多言語話者)で起こりやすい)</li>
+		</ul>
+	</block>
+</frame>
+</s>
+
 <s h="社会情報">
 <frame title="\insertsubsection">
 	<block title="社会情報$(\alpha, \beta)$" class="alert">
