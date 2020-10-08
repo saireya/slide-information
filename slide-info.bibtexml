@@ -55,6 +55,68 @@
 	<url>http://www.ccc.co.jp/customer</url>
 </misc></entry>
 
+<entry id="hjelmslev-j"><book>
+	<author>Louis Hjelmslev</author>
+	<title>言語理論序説</title>
+	<publisher>ゆまに書房</publisher>
+	<isbn>4897144124</isbn>
+	<year>1998</year>
+	<pages>32-43</pages>
+	<note>林 栄一訳</note>
+</book></entry>
+
+<entry id="saussure"><book>
+	<author>Ferdinand de Saussure</author>
+	<title>Cours de linguistique générale</title>
+	<publisher>Payot</publisher>
+	<year>1916</year>
+	<url>https://fr.wikisource.org/wiki/Cours_de_linguistique_g%C3%A9n%C3%A9rale</url>
+	<pages>158-162</pages>
+</book></entry>
+
+<entry id="saussure-en"><book>
+	<author>Ferdinand de Saussure</author>
+	<title>Course in general linguistics</title>
+	<publisher>Philosophical Library</publisher>
+	<year>1959</year>
+	<url>https://archive.org/details/courseingenerall00saus</url>
+	<pages>65-70</pages>
+</book></entry>
+
+<entry id="saussure-ja"><book>
+	<author>Ferdinand de Saussure</author>
+	<title>新訳 ソシュール 一般言語学講義</title>
+	<publisher>研究社</publisher>
+	<year>2016</year>
+	<isbn>4327378224</isbn>
+	<pages>100-104</pages>
+	<note>町田健訳</note>
+</book></entry>
+
+<entry id="machida"><book>
+	<author>町田 健</author>
+	<title>ソシュールと言語学 コトバはなぜ通じるのか</title>
+	<publisher>講談社</publisher>
+	<year>2004</year>
+	<isbn>4061497634</isbn>
+</book></entry>
+
+<entry id="iso-2382-1993"><techreport>
+	<author>International Organization for Standardization</author>
+	<title>ISO/IEC 2382-1:1993(en): Information technology — Vocabulary — Part 1: Fundamental terms</title>
+	<institution>International Organization for Standardization</institution>
+	<year>1993</year>
+	<url>https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:-1:ed-3:en</url>
+</techreport></entry>
+
+<entry id="iso-2382-2015"><techreport>
+	<author>International Organization for Standardization</author>
+	<title>ISO/IEC 2382:2015(en): Information technology — Vocabulary</title>
+	<institution>International Organization for Standardization</institution>
+	<year>2015</year>
+	<url>https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:ed-1:v1:en</url>
+</techreport></entry>
+
 <entry id="iloveyou"><misc>
 	<author>こんにちワールド</author>
 	<title>世界の言葉であいしてる</title>
