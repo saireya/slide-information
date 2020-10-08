@@ -108,11 +108,11 @@
 <s h="情報の分類">
 <frame title="\insertsubsection">
 	<block title="情報の分類" class="alert">
-		$\alpha$: <em>表現</em>, $\beta$: <em>内容</em> ($\epsilon$は空列(empty)で、「何もない」ことを表す)
+		$\alpha$: <em>表現</em>, $\beta$: <em>内容</em> ($\varepsilon$は空列(empty)で、「何もない」ことを表す)
 		<ul>
-			<li><strong>生命情報</strong>$(\epsilon,  \beta)$: <em>内容</em>$\beta$のみで、表現が対応していない情報</li>
-			<li><strong>社会情報</strong>$(\alpha,    \beta)$: <em>表現</em>$\alpha$と<em>内容</em>$\beta$が対応している情報(<em>記号</em>/<em>符号</em>)</li>
-			<li><strong>機械情報</strong>$(\alpha, \epsilon)$: <em>表現</em>$\alpha$のみで、内容が対応していない情報(<em>データ</em>)</li>
+			<li><strong>生命情報</strong>$(\varepsilon,  \beta)$: <em>内容</em>$\beta$のみで、表現が対応していない情報</li>
+			<li><strong>社会情報</strong>$(\alpha,       \beta)$: <em>表現</em>$\alpha$と<em>内容</em>$\beta$が対応している情報(<em>記号</em>/<em>符号</em>)</li>
+			<li><strong>機械情報</strong>$(\alpha, \varepsilon)$: <em>表現</em>$\alpha$のみで、内容が対応していない情報(<em>データ</em>)</li>
 		</ul>
 	</block>
 	<img src="information.svg" scale=".75"/>
@@ -134,7 +134,7 @@
 
 <s h="生命情報">
 <frame title="\insertsubsection">
-	<block title="生命情報$(\epsilon, \beta)$" class="alert">
+	<block title="生命情報$(\varepsilon, \beta)$" class="alert">
 		<alert>内容$\beta$</alert>のみで、表現が対応していない情報
 		<ul>
 			<li mark="⇨">生命情報による思考が<strong>生命活動の基礎</strong>となる</li>
@@ -212,7 +212,7 @@
 
 <s h="機械情報">
 <frame title="\insertsubsection">
-<block title="機械情報$(\alpha, \epsilon)$" class="alert">
+<block title="機械情報$(\alpha, \varepsilon)$" class="alert">
 	<alert>表現$\alpha$</alert>のみで、内容が対応していない情報(<em>データ</em>(data)ともいう)
 	<ul>
 		<li>復号しなくても(できなくても)<em>コピー</em>することはできる</li>
